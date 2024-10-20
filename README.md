@@ -1,4 +1,4 @@
-# Hello from Moscow City, Big World!  
+# Hello, World!    
 ## My name is Alex   
 ### This is my personal programmer page on GitHub on the Internet  
 #### I study programming and here I post my lessons, examples and pet projects  
