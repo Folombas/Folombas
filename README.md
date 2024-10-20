@@ -30,7 +30,7 @@
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/folombas)
 
 ### Контакты
-[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://https://www.youtube.com/@folomba)
+[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@folomba)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/folombas)
 <!-- [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/) -->  
 <!-- [![Дзен](https://img.shields.io/badge/-Дзен-333?style=for-the-badge)](https://zen.yandex.ru/itdoctor) -->
