@@ -1,7 +1,7 @@
-#Hello from Moscow City, Big World!
-##My name is Alex 
-###This is my personal programmer page on GitHub on the Internet
-####I study programming and here I post my lessons, examples and pet projects
+# Hello from Moscow City, Big World!  
+## My name is Alex   
+### This is my personal programmer page on GitHub on the Internet  
+#### I study programming and here I post my lessons, examples and pet projects  
 
 <!--
 **Folombas/Folombas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
