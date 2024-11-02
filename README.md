@@ -45,4 +45,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/folombas)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=blueviolet&style=flat" alt="Folombas" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Folombas&label=Profile%20views&color=blueviolet&style=flat" alt="Folombas" /> </p>
