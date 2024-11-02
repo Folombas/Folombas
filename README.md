@@ -24,10 +24,13 @@
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
+#### На этих языках чаще всего пишу код
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&show_icons=true&locale=en&layout=compact&theme=dark)
 
-![Profile-Trophy](https://github-profile-trophy.vercel.app/?username=Folombas)
+#### My Personal GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### Счётчик ежедневного Программирования на Гитхаб
 ![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)
 
 ### Эксклюзив
@@ -42,4 +45,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/folombas)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
 
-![Profile-View](https://komarev.com/ghpvc/?username=Folombas&label=Profile%20views&color=blueviolet&style=flat)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=JawherKl&label=Profile%20views&color=blueviolet&style=flat" alt="Folombas" /> </p>
