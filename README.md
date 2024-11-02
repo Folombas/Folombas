@@ -4,7 +4,7 @@
 #### I study programming and here I post my lessons, examples and pet projects  
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&locale=en,issues,contribs&theme=dark)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -26,6 +26,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&layout=compact&theme=dark)
 
+![Profile-Trophy](https://github-profile-trophy.vercel.app/?username=Folombas)
+
+![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)
+
 ### Эксклюзив
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/folombas)
 
@@ -37,3 +41,5 @@
 <!-- [![Rutube](https://img.shields.io/badge/-Rutube-333?style=for-the-badge)](https://rutube.ru/channel//) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/folombas)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/ismail_asanovich) -->
+
+![Profile-View](https://komarev.com/ghpvc/?username=Folombas&label=Profile%20views&color=blueviolet&style=flat)
