@@ -4,7 +4,7 @@
 #### I study programming and here I post my lessons, examples and pet projects  
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&locale=en,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&locale=en&theme=dark)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -24,7 +24,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ![Profile-Trophy](https://github-profile-trophy.vercel.app/?username=Folombas)
 
