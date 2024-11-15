@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&show_icons=true&locale=en&layout=compact&theme=dark)
 
 #### My Personal GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Folombas&theme=onedark)](https://github.com/Folombas/github-profile-trophy)
 
 #### Счётчик ежедневного Программирования на Гитхаб
 ![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)
