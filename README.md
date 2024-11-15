@@ -31,7 +31,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Folombas&theme=onedark)](https://github.com/Folombas/github-profile-trophy)
 
 #### Счётчик ежедневного Программирования на Гитхаб
-![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)
+[![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)]
 
 ### Эксклюзив
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/folombas)
