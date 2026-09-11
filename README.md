@@ -1,10 +1,12 @@
+
 # Hello, World!    
 ## My name is Alex   
 ### This is my personal programmer page on GitHub on the Internet  
 #### I study programming and here I post my lessons, examples and pet projects  
+#### Начал изучать основы программирования с **Free Pascal**
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&locale=en&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Folombas&show_icons=true&locale=ru&theme=dark)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -20,18 +22,19 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
+![Free Pascal](https://img.shields.io/badge/-Free%20Pascal-333?style=for-the-badge&logo=freepascal&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 #### На этих языках чаще всего пишу код
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&show_icons=true&locale=en&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Folombas&layout=compact&theme=dark&locale=ru)
 
 #### My Personal GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Folombas&theme=onedark)](https://github.com/Folombas/github-profile-trophy)
 
 #### Счётчик ежедневного Программирования на Гитхаб
-![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=Folombas)
+![Streak-Stats](https://streak-stats.demolab.com?user=Folombas&theme=dark&locale=ru)
 
 ### Эксклюзив
 [![Boosty](https://img.shields.io/badge/-Boosty-FFA318?style=for-the-badge)](https://boosty.to/folombas)
